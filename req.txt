@@ -1,0 +1,25 @@
+# FastAPI for API service
+fastapi
+
+# Uvicorn for running the FastAPI server
+uvicorn
+
+# Falcon LLM for AI-powered recommendations
+transformers
+torch
+
+# FAISS for vector-based MITRE ATT&CK mapping
+faiss-cpu
+
+# Neo4j for graph-based attack tracking
+neo4j
+
+# MITRE ATT&CK data handling
+pandas
+requests
+
+# JSON parsing & processing
+jsonschema
+
+# Security log handling & analysis
+numpy

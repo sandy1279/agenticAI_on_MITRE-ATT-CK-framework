@@ -1,0 +1,5 @@
+api.py ----> We have implemented the API part of the Application.
+brain.py ---->We used the "tiiuae/falcon-7b-instruct" LLM for text generations for recommendations.
+embedding.py--->Here the MITRE ATT&CK framework data is embedded in a VECTOR database for fast lookups
+retriever.py--->This is the query based retrieval python file.
+graphdb.py---> Neo4j stores and visualizes attack progression over time for better event understanding/ 
