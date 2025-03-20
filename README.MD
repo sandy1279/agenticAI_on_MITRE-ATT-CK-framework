@@ -20,13 +20,13 @@ The AI-powered SOC (Security Operations Center) Agent is designed to analyze sec
 ## 📦 Installation
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/ai-soc-agent.git
-cd ai-soc-agent
+git clone https://github.com/sandy1279/agenticAI_on_MITRE-ATT-CK-framework/edit/main/README.MD
+cd MITRE AGENT
 ```
 
 ### **2️⃣ Install Dependencies**
 ```sh
-pip install -r requirements.txt
+pip install -r req.txt
 ```
 
 ### **3️⃣ Start the API Server**
